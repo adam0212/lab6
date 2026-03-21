@@ -13,7 +13,7 @@ public class Triangle{
     private String name;
     private double base;
     private double height;
-    
+
     /**
      * Constructs a triangle with default values
      */
@@ -35,7 +35,7 @@ public class Triangle{
         base = inBase;
         height = inHeight;
     }
-    
+
     /**
      * Sets name to newName
      * @param newName is the new name of the triangle
